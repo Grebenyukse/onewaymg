@@ -1,2 +1,2 @@
 # onewaymg
-one direction martingale for MT5
+только покупки по инструментам 
